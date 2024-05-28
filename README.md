@@ -102,7 +102,7 @@ Best performed:
 ## Installation
 1. Clone the repository:
 ```ruby
-git clone [https://github.com/your-repo/emotion-prediction.git](https://github.com/vn33/Intensity-Analysis-EmotionClassification.git)
+git clone https://github.com/vn33/Intensity-Analysis-EmotionClassification.git
 ```
 2. Install the dependencies:
 ```ruby
